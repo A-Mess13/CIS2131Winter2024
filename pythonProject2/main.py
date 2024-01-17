@@ -1,0 +1,5 @@
+print('Laith Miller')
+print('he/him')
+print('Laith is taking this class to pursue a more formal education')
+print('In his free time he enjoys playing video games, reading, and rock climbing')
+print('A fun fact about Laith is that he loves everything sci-fi and is a big fan of the cyberpunk genre')
